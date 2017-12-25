@@ -1,0 +1,3 @@
+WordSeg.java和prepareText.java对文本文件做预处理，结果存入sparkinput
+ScaWordCount文件夹下是词频统计及排序的Scala代码
+程序运行结果存在sparkout文件夹下
